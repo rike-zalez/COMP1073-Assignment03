@@ -22,3 +22,31 @@ pre {
     border-radius: 5px;
     overflow-x: auto;
 }
+
+.playlist {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.playlist img {
+    margin-top: 10px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.playlist h3 {
+    color: #1DB954; 
+}
+
+.playlist a {
+    text-decoration: none;
+    color: white;
+    background-color: #1DB954;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
